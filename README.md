@@ -17,14 +17,18 @@ https://github.com/Shenggan/BCCD_Dataset MIT License
 The diagnosis of blood-based diseases often involves identifying and characterizing patient blood samples. Automated methods to detect and classify blood cell subtypes have important medical applications.
 
 
-Like Facebook Page: 
+### Like Facebook Page: 
 https://www.facebook.com/kgptalkie/
 
-Watch Full Playlists: 
-Deep Learning with TensorFlow 2.0 Tutorials: https://www.youtube.com/watch?v=JHNX5ugPa7s&list=PLc2rvfiptPSR3iwFp1VHVJFK4yAMo0wuF
+### Watch Full Playlists: 
+#### Deep Learning with TensorFlow 2.0 Tutorials
+https://www.youtube.com/watch?v=JHNX5ugPa7s&list=PLc2rvfiptPSR3iwFp1VHVJFK4yAMo0wuF
 
-Feature Selection in Machine Learning using Python: https://www.youtube.com/playlist?list=PLc2rvfiptPSQYzmDIFuq2PqN2n28ZjxDH
+#### Feature Selection in Machine Learning using Python
+https://www.youtube.com/playlist?list=PLc2rvfiptPSQYzmDIFuq2PqN2n28ZjxDH
 
-Machine Learning with Theory and Example https://www.youtube.com/playlist?list=PLc2rvfiptPSTvPFbNlT_TGRupzKKhJSIv
+#### Machine Learning with Theory and Example
+https://www.youtube.com/playlist?list=PLc2rvfiptPSTvPFbNlT_TGRupzKKhJSIv
 
-Make Your Own Automated Email Marketing Software in Python: https://www.youtube.com/watch?v=gmYuom6kfoY&list=PLc2rvfiptPSQK9ErKaLqf40iu1A3le9Zr
+#### Make Your Own Automated Email Marketing Software in Python
+https://www.youtube.com/watch?v=gmYuom6kfoY&list=PLc2rvfiptPSQK9ErKaLqf40iu1A3le9Zr
